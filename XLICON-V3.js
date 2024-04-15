@@ -4211,9 +4211,7 @@ ${themeemoji} URL: ${repoData.html_url}
           } catch (error) {
             console.error(error);
             await replygcXlicon(`*「  ＭＡＮＮＯ-ＢＯＴ  Script 」*
-            *「 GITHUB 」* 
-            *https://github.com/Itxmanno05/MANNO-V3-MD*
-            
+            *「 GITHUB 」* *https://github.com/Itxmanno05/MANNO-V3*
             📝 *_Description:_* *🌸🤭- " 𝐀 𝐅ɑkə 𝐒mıɭə 𝐂ɑη ┣𝐥ıdə  𝐌ıɭɭıoηs 𝐎f 𝐓əɑrs ||%❤😚*
             🔎 *_Repository Name:_* *MANNO-V3-MD*
             🔮 *_Owner:_* *Itxmanno05*
@@ -4232,7 +4230,7 @@ ${themeemoji} URL: ${repoData.html_url}
             {
               text: teks,
               contextInfo: {
-                externalAdReply: {
+           externalAdReply: {
                   showAdAttribution: true,
                   title: botname,
                   body: ownername,
