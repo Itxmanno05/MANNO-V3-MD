@@ -11397,7 +11397,7 @@ ${listAdmin}
               image: {
                 url: `https://api-smd-1.vercel.app/api/maker/opinion?message=hiiiii&name=SalmanSer&image=${anu}`,
               },
-              caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 ＭＡＮＮＯ-ＢＯＴ,
+              caption: "➫ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 ＭＡＮＮＯ-ＢＯＴ",
             },
             { quoted: m }
           );
